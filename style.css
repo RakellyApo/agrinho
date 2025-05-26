@@ -17,6 +17,9 @@ header {
     position: relative;
     z-index: 10;
 }
+.logo{
+    
+}
 
 @media (min-width: 768px) { /* md:px-12 */
     header {
